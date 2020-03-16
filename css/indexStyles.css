@@ -1,0 +1,133 @@
+/* Header Styling */
+header {
+    background: DarkRed;
+    color: White;
+    font-weight: bold;
+    padding: 1rem;
+}
+
+header h1 {
+    font-size: 2rem;
+}
+
+header p {
+    margin-top: 0;
+    font-weight: normal;
+}
+
+/* Well Styling */
+.button {
+    padding: 1rem;
+    font-size: 2rem;
+    width: 10rem;
+    background: black;
+    color: white;
+    font-weight: bolder;
+    border-radius: 3rem;
+    box-shadow: 1px 1px 10px black;
+}
+
+.button:hover {
+    background: DarkRed;
+    cursor: pointer;
+}
+
+h3 {
+    font-weight: bold;
+    font-size: 3rem;
+    color: darkred;
+}
+
+.well-container {
+    text-align: center;
+}
+
+/* Tab Styling */
+#tabs {
+    overflow: hidden;
+    border: 1px solid black;
+    margin-top: 2rem;
+}
+
+#tabs button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 1.3rem;
+    border-right: 1px solid black;
+    border-radius: 0 .5rem .5rem 0;
+}
+
+#tabs button:hover {
+    background-color: #ddd;
+    cursor: pointer;
+}
+
+.tabContent {
+    display: none;
+    padding: 1rem;
+    border: 1px solid black;
+    border-top: none;
+    font-size: 1.3rem;
+}
+
+.active {
+    color: red;
+}
+
+footer {
+    font-weight: bold;
+    color: white;
+    background: black;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+}
+
+footer a {
+    text-decoration: none;
+    color: White;
+}
+
+footer a:active {
+    color: White;
+}
+
+footer a:visited {
+    color:white;
+}
+
+footer a:hover {
+    color: red;
+}
+/* Media screens larger than 900px*/
+@media only screen and (min-width: 901px) {
+
+    header {
+        padding: 2rem;
+    }
+
+    header h1 {
+        font-size: 4rem;
+    }
+
+    .container {
+        margin: 0 3rem;
+    }
+
+    #tabs button {
+        font-size: 2rem;
+    }
+
+    .tabContent {
+        font-size: 1.5rem;
+    }
+}
+
+
+
