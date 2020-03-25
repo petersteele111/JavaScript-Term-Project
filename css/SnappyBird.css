@@ -1,0 +1,37 @@
+canvas {
+    border:1px solid;
+    display: block;
+    margin: 0 auto;
+
+}
+
+button {
+    width: 200px;
+    background: cadetblue;
+    color: white;
+    padding: 20px;
+    font-size: 36px;
+    display: block;
+    margin: 50px auto;
+}
+.wrapper {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+body {
+    background: darkred;
+}
+
+.info {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
