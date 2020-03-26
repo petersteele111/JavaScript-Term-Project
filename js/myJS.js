@@ -9,7 +9,7 @@ function getGameDescription(game) {
             var tabContent = document.getElementById("gameTab2");
             openGameDescription(tabContent, game);
             break;
-        case "Chess":
+        case "Snake":
             var tabContent = document.getElementById("gameTab3");
             openGameDescription(tabContent, game);
             break;
@@ -44,13 +44,13 @@ document.querySelectorAll('.tabLink').forEach(button => button.addEventListener(
 function playGame(playGame) {
     switch (playGame) {
         case "PlayGame1":
-            window.location.href = "SnappyBird.html";
+            window.location.href = "SnappyBird/SnappyBird.html";
             break;
         case "PlayGame2":
             window.location.href = "BlackJack.html";
             break;
         case "PlayGame3":
-            window.location.href = "Chess.html";
+            window.location.href = "Snake/Snake.html";
             break;
     }
 }
