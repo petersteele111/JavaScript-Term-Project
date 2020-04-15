@@ -47,7 +47,7 @@ function playGame(playGame) {
             window.location.href = "SnappyBird/SnappyBird.html";
             break;
         case "PlayGame2":
-            window.location.href = "BlackJack.html";
+            window.location.href = "BlackJack/BlackJack.html";
             break;
         case "PlayGame3":
             window.location.href = "Snake/Snake.html";
