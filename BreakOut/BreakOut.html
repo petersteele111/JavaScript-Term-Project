@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>BreakOut</title>
+    <link rel="stylesheet" href="css/pbsBaseGrid.css">
+    <link rel="stylesheet" href="css/BreakOut.css">
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <header class="text-center">
+            <h1>BreakOut</h1>
+            <p>BreakOut is a fun game of bouncing a ball off a paddle and into some bricks!</p>
+        </header>
+    </div>
+    <div class="row">
+        <section id="wrapper">
+            <div class="wrapper"><img src="media/starterImage.png" alt="Snappy Bird" id="starterImage"></div>
+            <canvas id="breakoutCanvas" width="800" height="600" style="border: 1px solid red; display: none; background: #007fff"></canvas>
+        </section>
+        <button id="play" class="button">Play</button>
+        <p class="info">To play, simply move your mouse to control the paddle board and bounce the ball into the bricks. <a href="readme.txt">ReadMe.txt</a></p>
+    </div>
+</div>
+<script src="js/BreakOut.js"></script>
+</body>
+</html>

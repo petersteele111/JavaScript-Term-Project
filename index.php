@@ -5,12 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="CIT90 lesson assignments">
     <meta name="author" content="Peter Steele">
-    <link rel="icon" href="/docs/4.0/assets/img/favicons/favicon.ico">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <title>CIT190 Assignments - Peter Steele</title>
-
-    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/starter-template/">
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -91,14 +88,66 @@
                     <a href="Lesson7/games.html" class="dropdown-item">Game Consoles</a>
                 </div>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Lesson 8</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Lesson 8
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="Lesson8/logo.html" class="dropdown-item">Canvas Logo</a>
+                    <a href="Lesson8/localForm.html" class="dropdown-item">Local Storage</a>
+                    <a href="Lesson8/sessionForm.html" class="dropdown-item">Session Storage</a>
+                    <a href="Lesson8/API.html" class="dropdown-item">Weather API</a>
+                </div>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Lesson 9</a>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Lesson 9
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="Lesson9/howOldAreYou.html" class="dropdown-item">How Old Are You?</a>
+                    <a href="Lesson9/GuessingGame.html" class="dropdown-item">GuessingGame</a>
+                    <a href="Lesson9/SnappyBird.html" class="dropdown-item">Canvas Game (Snappy Bird)</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Lesson 10
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="Lesson10/photography.html" class="dropdown-item">Photography (Tabs)</a>
+                    <a href="Lesson10/photographyUI.html" class="dropdown-item">Photography UI</a>
+                    <a href="Lesson10/photographyModal.html" class="dropdown-item">Photography Modal</a>
+                    <a href="Lesson10/photographySlider.html" class="dropdown-item">Photography Slider</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Lesson 11
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="Lesson11/filter-tags.html" class="dropdown-item">Photo Gallery Filter</a>
+                    <a href="Lesson11/mySortableTable.html" class="dropdown-item">Galactic Contact List</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Lesson 12
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="Lesson12/vacationClubJS.html" class="dropdown-item">Vacation Club JS</a>
+                    <a href="Lesson12/vacationClubJQuery.html" class="dropdown-item">Vacation Club JQuery</a>
+                </div>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="FinalProject">Final Project</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Problem Solving
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    <a href="ProblemSolving/localForm.html" class="dropdown-item">Problem Solving 1</a>
+                </div>
             </li>
         </ul>
     </div>
@@ -259,12 +308,143 @@
     <div class="row">
         <div class="col-12 col-lg-6">
             <section>
+                <h2>Lesson 8</h2>
+                <details>
+                    <summary>Lesson 8 Book Assignments</summary>
+                    <table width="100%">
+                        <tr>
+                            <td width="50%"><a href="/Lesson8/logo.html" target="_blank">Canvas Logo</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="/Lesson8/logo.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="/Lesson8/localForm.html" target="_blank">Local Storage</a> </td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="/Lesson8/localForm.html" download="" >Download</a></td></td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="/Lesson8/sessionForm.html" target="_blank">Session Storage</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="/Lesson8/sessionForm.html" download="" >Download</a></td></td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="/Lesson8/API.html" target="_blank">Weather API</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="/Lesson8/API.html" download="" >Download</a></td></td>
+                        </tr>
+                    </table>
+                </details>
+            </section>
+        </div>
+        <div class="col-12 col-lg-6">
+            <section>
+                <h2>Lesson 9</h2>
+                <details>
+                    <summary>Lesson 9 Textbook Assignments</summary>
+                    <table width="100%">
+                        <tr>
+                            <td width="50%"><a href="Lesson9/howOldAreYou.html" target="_blank">How Old Are You?</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/howOldAreYou.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson9/GuessingGame.html" target="_blank">Guessing Game</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/GuessingGame.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson9/SnappyBird.html" target="_blank">Canvas Game (Snappy Bird)</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/SnappyBird.html" download="" >Download</a></td> </td>
+                        </tr>
+                    </table>
+                </details>
+            </section>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <section>
+                <h2>Lesson 10</h2>
+                <details>
+                    <summary>Lesson 10 Textbook Assignments</summary>
+                    <table width="100%">
+                        <tr>
+                            <td width="50%"><a href="Lesson10/photography.html" target="_blank">Photography (Tabs)</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/photography.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson10/photographyUI.html" target="_blank">Photography UI</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/photographyUI.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson10/photographyModal.html" target="_blank">Photography Modal</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/photographyModal.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson10/photographySlider.html" target="_blank">Photography Slider</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson9/photographySlider.html" download="" >Download</a></td> </td>
+                        </tr>
+                    </table>
+                </details>
+            </section>
+        </div>
+        <div class="col-12 col-lg-6">
+            <section>
+                <h2>Lesson 11</h2>
+                <details>
+                    <summary>Lesson 11 Textbook Assignments</summary>
+                    <table width="100%">
+                        <tr>
+                            <td width="50%"><a href="Lesson11/filter-tags.html" target="_blank">Photo Gallery Filter</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson11/filter-tags.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson11/mySortableTable.html" target="_blank">Galactic Contact List</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson11/mySortableTable.html" download="" >Download</a></td> </td>
+                        </tr>
+                    </table>
+                </details>
+            </section>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <section>
+                <h2>Lesson 12</h2>
+                <details>
+                    <summary>Lesson 12 Textbook Assignments</summary>
+                    <table width="100%">
+                        <tr>
+                            <td width="50%"><a href="Lesson12/vacationClubJS.html" target="_blank">Vacation Club JS</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson12/vacationClubJS.html" download="" >Download</a></td> </td>
+                        </tr>
+                        <tr>
+                            <td width="50%"><a href="Lesson12/vacationClubJQuery.html" target="_blank">Vacation Club JQuery</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="Lesson12/vacationClubJQuery.html" download="" >Download</a></td> </td>
+                        </tr>
+                    </table>
+                </details>
+            </section>
+        </div>
+    </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-6">
+            <section>
                 <h2>Final Project</h2>
                 <details>
                     <summary>Final Project</summary>
                     <table width="100%">
                         <tr>
                             <td width="50%"><a href="FinalProject" target="_blank">Final Project</a></td>
+                        </tr>
+                    </table>
+                </details>
+            </section>
+        </div>
+        <div class="col-12 col-lg-6">
+            <section>
+                <h2>Problem Solving 1</h2>
+                <details>
+                    <summary>Problem Solving #1</summary>
+                    <table width="100%">
+                        <tr>
+                            <td width="50%"><a href="ProblemSolving/localForm.html" target="_blank">TC Running SignUp</a></td>
+                            <td><td class="dwnld" width="20%"><a class="btn btn-primary btn-sm nocolor" href="ProblemSolving1-PeterSteele.zip" download="" >Download</a></td> </td>
                         </tr>
                     </table>
                 </details>

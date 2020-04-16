@@ -9,8 +9,8 @@ This site contains 3 games targeted at general audiences. SnappyBird, BlackJack,
 SnappyBird:
 SnappyBird is a fun, casual game that allows you to use the keyboard to attempt to navigate the bird through the pipes without touching them. If you touch a pipe or collide with the ground, you lose! While the game seems simple in concept, it get's trickier the farther you go. The game will speed up as well, making your timing all the more important. Do you have what it takes to beat the high score and be the reigning champ? Try your luck with SnappyBird and see just how good you are!
 
-BlackJack:
-The classic game of BlackJack! See if you can beat the dealer and get 21. Be careful though, you don't want to go over 21 or you bust and lose. Bet wisely and see your profits grow. Also, know when to fold and give up a hand, or you could end up losing it all. See if you have what it takes to beat the casino, and earn your riches. Click the play button up above to start playing now!
+BreakOut
+The classic game of BreakOut! A game that has captivated audiences for decades. The premise is simple, yet the execution can be difficult. A ball is randomly thrown out and you have a paddle at the bottom of the screen that must smack the ball back towards the bricks. Break all of the bricks without running out of lives and you win! Miss the ball with the paddle though, and you will lose a life. Take on the classic today by clicking the play button!
 
-Chess:
-This is a classic game of wits and cunning. You will face an AI opponent that will do it's best to beat you. Simply click on the piece you want to move, and then select the location you want the piece to go. The object of the game is to try and attempt to get a checkmate and kill the opposing teams king. Use your moves and pieces wisely though, as you can lose them as well. See if you have what it takes to be a chess champ and beat the odds!
+Snake:
+Snake is a classic game that seems simple in theory but very difficult in practice. While the initial stages are easy, the longer your snake gets as you eat, the more difficult it becomes to avoid hitting yourself! To play, all you need to do is use the arrow keys on the keyboard to move the snake around and eat the food that appears on the screen. Be careful though, if you hit the edges, or yourself, its game over!

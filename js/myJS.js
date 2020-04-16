@@ -5,7 +5,7 @@ function getGameDescription(game) {
             var tabContent = document.getElementById("gameTab1");
             openGameDescription(tabContent, game);
             break;
-        case "BlackJack":
+        case "BreakOut":
             var tabContent = document.getElementById("gameTab2");
             openGameDescription(tabContent, game);
             break;
@@ -47,7 +47,7 @@ function playGame(playGame) {
             window.location.href = "SnappyBird/SnappyBird.html";
             break;
         case "PlayGame2":
-            window.location.href = "BlackJack/BlackJack.html";
+            window.location.href = "BreakOut/BreakOut.html";
             break;
         case "PlayGame3":
             window.location.href = "Snake/Snake.html";
